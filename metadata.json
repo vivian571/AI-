@@ -1,0 +1,5 @@
+{
+  "name": "AI Podcast Video Creator",
+  "description": "Generate engaging podcast-style videos with AI-generated scripts, voices, and visuals based on your text or trending topics.",
+  "requestFramePermissions": ["microphone"]
+}
